@@ -33,7 +33,7 @@
 
 - As much as possible, reach out to Audrey as a team, rather than individually -- communicate first!
 
-> ### Communication Plan
+> ## Communication Plan
 
 - hours:
   - Roger 9am-6pm, Slack outside of those hours
@@ -58,7 +58,7 @@ breaks: take 10 every hour
   - standups
   - keep a psychological safe environment
 
-> ### Work Plan
+> ## Work Plan
 
 - standups are critical for project management
 - GitHub Projects
@@ -68,6 +68,6 @@ breaks: take 10 every hour
 
 DO THIS ON THURSDAY OR EARLIER
 
-> ### Git Process
+> ## Git Process
 
 - daily rotation of pairs for reviewing and confirming pull requests
